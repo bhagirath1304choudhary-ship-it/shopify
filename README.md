@@ -36,3 +36,4 @@ Set these server-side variables:
 - Cart is stored client-side and sent to the server only at checkout to create a Shopify cart and redirect to Shopify’s secure checkout.
 - Reviews and wishlists require login (JWT cookie is set on register/login).
 - You can deploy to Vercel from v0. Use the shadcn CLI or download ZIP to install locally.
+# shopify
